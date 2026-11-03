@@ -1,0 +1,11 @@
+{
+  "name": "hannun-haksa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "한눈학사 — 학사일정과 생기부 활동을 한눈에 보는 웹앱",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "node dev-server.mjs"
+  }
+}

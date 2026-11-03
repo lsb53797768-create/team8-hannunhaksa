@@ -1,0 +1,17 @@
+{
+  "name": "한눈학사",
+  "short_name": "한눈학사",
+  "description": "학사일정과 생기부 활동, 신청 마감을 한눈에 보는 학교 웹앱",
+  "lang": "ko",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F1F4F2",
+  "theme_color": "#285FC4",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
